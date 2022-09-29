@@ -1,0 +1,2 @@
+# Wine-Quality-Analysis
+The main purpose of this study is to predict wine quality based on physicochemical data. Wine Dataset which contains 1599 rows with 11 attributes of physicochemical data such as alcohol, PH, and sulphates. This study explores performance of various regression and classification algorithms including binary, multiclass classification as well as continuous predicted output. Feature evaluation shows alcohol has greatest influence on quality.
